@@ -4,16 +4,17 @@
  ## Table of Content
  
  + [Description](#description)
- + [Installation Requirement](#Installation)
  + [Technology Used](#technology-used)
  + [Licence](#licence)
  + [Authors Info](#author-Info)
  
  
  ## Description
+ A website which helps you to monitor milk production and sale at your farm.
+
+
 
  
- ## Installation
  
  ### Requirements
  
@@ -24,7 +25,7 @@
  
  ## Technology Used
  * HTML 
- 
+ * CSS
  * JavaScript
 
  
