@@ -9,3 +9,4 @@ const total  = document.getElementsByClassName("total");
  function incomePerMonth(){
  december.innerHTML = "Income for December is "+dec;
 }
+
