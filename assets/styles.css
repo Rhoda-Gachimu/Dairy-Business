@@ -2,6 +2,7 @@ header{
     background-color: black;
     padding-bottom: 5%;
     padding-top: 5%;
+    font-size: x-large;
    
 }
 
@@ -10,4 +11,14 @@ header{
     display: flex;
     justify-content: space-between;
 
+}
+.start{
+    background-color: orangered;
+    height: 50px;
+    font-weight: bolder;
+
+}.milk{
+    font-size: xx-large;
+    font-weight: bold;
+    
 }
