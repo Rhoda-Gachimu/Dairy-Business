@@ -4,6 +4,7 @@ header{
     padding-top: 5%; */
     height: 10vh;
     font-size: x-large;
+    color: #ffff;
    
 }
 
@@ -19,9 +20,11 @@ header{
     height: 50px;
     font-weight: bolder;
 
-}.milk{
+}
+.milk{
     font-size: xx-large;
     font-weight: bold;
+    color: #ffff;
     
 }
 .image{
@@ -32,4 +35,14 @@ header{
     background-size:100% 100%;
  
     
+}
+.production {
+    border-radius: 50%;
+    
+    
+}
+.color{
+   color: crimson; 
+   font-weight: bold;
+   font-family: ;
 }
