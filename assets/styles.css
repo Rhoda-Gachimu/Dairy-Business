@@ -28,7 +28,7 @@ header{
     
 }
 .image{
-    background-image:url("./assets/images/milk.jpg");
+    background-image:url("../assets/images/milk.jpg");
     height: 80vh;
     background-repeat: no-repeat;
     /* background-position: center; */
